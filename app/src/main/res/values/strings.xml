@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoDynamicListViewColourListL7</string>
+    <string name="add_new_colour">ADD NEW COLOUR</string>
+    <string name="enter_new_colour">enter new colour</string>
+    <string name="enter_position_number">enter position number</string>
+</resources>
